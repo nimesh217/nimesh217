@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nimesh217
 - 👀 I’m interested in Developing Website and Mobile Apps.
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 You can reach me at [Facebook] www.facebook.com/nimesh.217
 
 <!---
