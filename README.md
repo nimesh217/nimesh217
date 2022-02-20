@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nimesh217
+- 👋 Hi, I’m Nimesh Patel Assistant Professor in Computer Science
 - 👀 I’m interested in Developing Website and Mobile Apps.
 - 🌱 I’m currently learning Django
 
