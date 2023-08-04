@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nimesh Patel Assistant Professor in Computer Science
 - 👀 I’m interested in Developing Website and Mobile Apps.
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning ReactJS.
 
 - 📫 You can reach me at [Facebook] www.facebook.com/nimesh.217
 
