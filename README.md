@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Nimesh Patel Assistant Professor in Computer Science
+- 👋 Hi, I’m Nimesh Patel 
+-  Ads Automation Developer Mobibox Softech Pvt. Ltd. 
+-  Ex. Assistant Professor in Computer Science
 - 👀 I’m interested in Developing Website and Mobile Apps.
 - 🌱 I’m currently learning ReactJS.
 
